@@ -15,4 +15,5 @@ public class methods {
       System.out.println(c);
 
     }
+    
 }
